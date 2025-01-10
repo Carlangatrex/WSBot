@@ -1,0 +1,73 @@
+{
+    "asian": {
+        "inicio": [
+            "asian_inicio_1.jpg",
+            "asian_inicio_2.jpg"
+        ],
+        "coqueteo": [
+            "asian_coqueteo_1.jpg",
+            "asian_coqueteo_2.jpg"
+        ],
+        "intimo": [
+            "asian_intimo_1.jpg",
+            "asian_intimo_2.jpg"
+        ]
+    },
+    "blondie": {
+        "inicio": [
+            "blondie_inicio_1.jpg",
+            "blondie_inicio_2.jpg"
+        ],
+        "coqueteo": [
+            "blondie_coqueteo_1.jpg",
+            "blondie_coqueteo_2.jpg"
+        ],
+        "intimo": [
+            "https://example.com/blondie_intimate_image1.jpg",
+            "https://example.com/blondie_intimate_image2.jpg"
+        ]
+    },
+    "italian": {
+        "inicio": [
+            "https://example.com/italian_start_image1.jpg",
+            "https://example.com/italian_start_image2.jpg"
+        ],
+        "coqueteo": [
+            "https://example.com/italian_flirt_image1.jpg",
+            "https://example.com/italian_flirt_image2.jpg"
+        ],
+        "intimo": [
+            "https://example.com/italian_intimate_image1.jpg",
+            "https://example.com/italian_intimate_image2.jpg"
+        ]
+    },
+    "ebony": {
+        "inicio": [
+            "https://example.com/ebony_start_image1.jpg",
+            "https://example.com/ebony_start_image2.jpg"
+        ],
+        "coqueteo": [
+            "https://example.com/ebony_flirt_image1.jpg",
+            "https://example.com/ebony_flirt_image2.jpg"
+        ],
+        "intimo": [
+            "https://example.com/ebony_intimate_image1.jpg",
+            "https://example.com/ebony_intimate_image2.jpg"
+        ]
+    },
+    "latina": {
+        "inicio": [
+            "https://example.com/latina_start_image1.jpg",
+            "https://example.com/latina_start_image2.jpg"
+        ],
+        "coqueteo": [
+            "https://example.com/latina_flirt_image1.jpg",
+            "https://example.com/latina_flirt_image2.jpg"
+        ],
+        "intimo": [
+            "https://example.com/latina_intimate_image1.jpg",
+            "https://example.com/latina_intimate_image2.jpg"
+        ]
+    }
+}
+
